@@ -1,0 +1,8 @@
+subject,binge_drinking,buckle_up,diabetes,HIV,text_driving,drugged_driving,smoking,sun_protection,wash_hands,vaccination,vaping,marijuana,tech_addiction,healthy_diet,brunch,burger,coffee,education_donation,furniture,hotel,,total_recall,condition,
+sub001,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,1,
+sub002,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,,5,1,
+sub003,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,,2,1,
+sub004,0,0,0,0,0,1,1,0,0,0,0,1,0,1,1,0,1,0,0,1,,7,1,
+sub005,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,,4,1,
+sub006,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,3,1,
+sub007,1,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,,5,1,
