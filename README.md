@@ -7,7 +7,7 @@ Data and analysis code for *Title* [link](link_goes_here)
 
 ***
 
-<img align="right" width=250px src=data/explainer_fig.jpg> 
+<img align="right" width=250px src=data/explainer_fig.png> 
 
 
 
